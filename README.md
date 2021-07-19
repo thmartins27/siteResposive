@@ -1,7 +1,8 @@
-# siteResposive
-projeto de site resposive
+# Card Resposivo
+Exemplo de site resposivo, de um card de pagamento
 
 ### Link do projeto original
 
-Youtube <a>https://www.youtube.com/watch?v=jE0A0w_jnf4&t=112s<a><br>
-Repositório original <a>https://github.com/bedimcode/responsive-pricing-card<a>
+[Youtube](https://www.youtube.com/watch?v=jE0A0w_jnf4&t=112s) e
+[Repositório original](https://github.com/bedimcode/responsive-pricing-card)
+![Screenshot](preview.png)
